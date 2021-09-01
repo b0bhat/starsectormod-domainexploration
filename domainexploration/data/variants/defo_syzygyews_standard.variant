@@ -1,0 +1,14 @@
+{
+  "variantId": "defo_syzygyews_standard",
+  "hullId": "defo_syzygyews",
+  "displayName": "Standard",
+  "goalVariant": true,
+  "fluxCapacitors": 5,
+  "fluxVents": 10,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [],
+  "modules": [],
+  "wings": []
+}

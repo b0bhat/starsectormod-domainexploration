@@ -1,0 +1,68 @@
+{
+  "hullName": "Coriolis PD",
+  "hullId": "defo_pddrone",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/Coriolispd.png",
+  "style": "HIGH_TECH",
+  "height": 60,
+  "width": 60,
+  "center": [30, 29.5],
+  "collisionRadius": 34,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 31.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "HIDDEN",
+      "arc": 45,
+      "angle": 0,
+      "locations": [10.5, -0]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": -0,
+      "locations": [10.5, 0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-14.5, 8.5],
+      "length": 12.5,
+      "width": 6,
+      "angle": -180,
+      "contrailSize": 6,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-14.5, -8],
+      "length": 12.5,
+      "width": 6,
+      "angle": -180,
+      "contrailSize": 6,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-16.5, 0.5],
+      "length": 25,
+      "width": 11,
+      "angle": -180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    -7.5, 22.5,
+    -18.5, 12,
+    -18.5, -14,
+    -8, -22,
+    22.5, -10,
+    22.5, 10.5
+  ]
+}

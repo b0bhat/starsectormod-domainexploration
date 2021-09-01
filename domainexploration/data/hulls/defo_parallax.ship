@@ -1,0 +1,75 @@
+{
+  "hullName": "Parallax",
+  "hullId": "defo_parallax",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/Parallax.png",
+  "style": "HIGH_TECH",
+  "height": 125,
+  "width": 99,
+  "center": [47, 52.5],
+  "collisionRadius": 86.5,
+  "shieldCenter": [0, -0.5],
+  "shieldRadius": 78.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "intricatemachinery",
+    "hiressensors",
+    "ecm"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 20,
+      "angle": 0,
+      "locations": [26.5, 2]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 45,
+      "angle": 0,
+      "locations": [-0.5, -30]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 20,
+      "angle": 0,
+      "locations": [-14.5, 26]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-39.5, 24.5],
+      "length": 17.5,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 9,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-43, 2.5],
+      "length": 33,
+      "width": 15,
+      "angle": 180,
+      "contrailSize": 15,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    54, -7.5,
+    -1.5, -43.5,
+    -43.5, -29,
+    -35, 36,
+    -7, 34,
+    -7, 16,
+    43, 16
+  ]
+}

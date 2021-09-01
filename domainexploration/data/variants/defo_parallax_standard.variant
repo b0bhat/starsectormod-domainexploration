@@ -1,0 +1,32 @@
+{
+  "variantId": "defo_parallax_standard",
+  "hullId": "defo_parallax",
+  "displayName": "Standard",
+  "goalVariant": true,
+  "fluxCapacitors": 8,
+  "fluxVents": 9,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [
+    "delicate"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "heavyblaster"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "ioncannon",
+        "WS0002": "irpulse"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

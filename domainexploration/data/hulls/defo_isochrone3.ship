@@ -1,0 +1,107 @@
+{
+  "hullName": "",
+  "hullId": "defo_isochrone3",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/Isochrone3.png",
+  "style": "HIGH_TECH",
+  "height": 240,
+  "width": 140,
+  "center": [70, 120],
+  "collisionRadius": 169,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 163,
+  "viewOffset": 0,
+  "builtInMods": [
+    "reduced_explosion",
+    "intricatemachinery",
+    "always_detaches"
+  ],
+  "builtInWings": [
+    "defo_coriolis"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": 72.5,
+      "locations": [35, 37]
+    },
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 125,
+      "locations": [-66, 30]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -36, 29,
+        -42, 29,
+        -29, 29
+      ]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -13.5, 29,
+        -19.5, 29,
+        -7, 28.5
+      ]
+    },
+    {
+      "id": "LB 3",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        6, 28.5,
+        0.5, 28.5,
+        10, 29
+      ]
+    },
+    {
+      "id": "LB 4",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        18, 32.5,
+        19, 37,
+        15, 29.5
+      ]
+    }
+  ],
+  "engineSlots": [],
+  "bounds": [
+    58, 35.5,
+    47.5, 55,
+    18.5, 39,
+    -39, 40,
+    -93.5, 47.5,
+    -84.5, 22.5,
+    -65.5, 15.5,
+    -37, 10.5,
+    -39.5, 19.5,
+    31, 21
+  ]
+}

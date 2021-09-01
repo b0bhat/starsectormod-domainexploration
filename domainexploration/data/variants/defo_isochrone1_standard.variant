@@ -1,0 +1,30 @@
+{
+  "variantId": "defo_isochrone1_standard",
+  "hullId": "defo_isochrone1",
+  "displayName": "Standard",
+  "goalVariant": true,
+  "fluxCapacitors": 10,
+  "fluxVents": 15,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "sabotpod",
+        "WS0003": "hammerrack"
+      }
+    }
+  ],
+  "modules": [
+    {
+      "WS0006": "defo_isochrone2_standard"
+    },
+    {
+      "WS0005": "defo_isochrone3_standard"
+    }
+  ],
+  "wings": []
+}

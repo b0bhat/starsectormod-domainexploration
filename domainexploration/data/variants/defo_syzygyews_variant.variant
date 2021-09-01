@@ -1,0 +1,14 @@
+{
+  "variantId": "defo_syzygyews_variant",
+  "hullId": "defo_syzygyews",
+  "displayName": "New Variant",
+  "goalVariant": false,
+  "fluxCapacitors": 5,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [],
+  "modules": [],
+  "wings": []
+}

@@ -1,0 +1,66 @@
+{
+  "hullName": "Syzygy EWS",
+  "hullId": "defo_syzygyews",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/Syzygy EWS.png",
+  "style": "HIGH_TECH",
+  "height": 80,
+  "width": 82,
+  "center": [41, 27.5],
+  "collisionRadius": 64.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 56,
+  "viewOffset": 0,
+  "builtInMods": [
+    "intricatemachinery",
+    "nav_relay",
+    "hiressensors",
+    "ecm"
+  ],
+  "builtInWings": [
+    "defo_empdrone"
+  ],
+  "weaponSlots": [],
+  "engineSlots": [
+    {
+      "location": [-22.5, 25],
+      "length": 21.992931,
+      "width": 9.232766,
+      "angle": 180,
+      "contrailSize": 9.232766,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-22.5, -25],
+      "length": 21.992931,
+      "width": 9.232766,
+      "angle": 180,
+      "contrailSize": 9.232766,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-23.5, -15],
+      "length": 30,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-23.5, 15],
+      "length": 30,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    31.5, -14,
+    -7.5, -40,
+    -22.5, -25,
+    -22.5, 25,
+    -7.5, 40,
+    31.5, 14
+  ]
+}

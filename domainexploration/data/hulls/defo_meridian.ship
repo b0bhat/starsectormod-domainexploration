@@ -1,0 +1,101 @@
+{
+  "hullName": "Meridian",
+  "hullId": "defo_meridian",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/Meridian.png",
+  "style": "HIGH_TECH",
+  "height": 280,
+  "width": 140,
+  "center": [73.5, 103.5],
+  "collisionRadius": 155.5,
+  "shieldCenter": [22.5, 7],
+  "shieldRadius": 121.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "intricatemachinery",
+    "hiressensors"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": 0,
+      "locations": [32, 45.5]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": 0,
+      "locations": [83, 39.5]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 280,
+      "angle": 156.5,
+      "locations": [-48, 41]
+    },
+    {
+      "id": "WS0004",
+      "size": "MEDIUM",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 20,
+      "angle": 0,
+      "locations": [9, -39.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-52, 24.5],
+      "length": 35,
+      "width": 14,
+      "angle": 180,
+      "contrailSize": 14,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-48, -28.5],
+      "length": 22.5,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-47.5, -38],
+      "length": 16.5,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-57, -6],
+      "length": 22.5,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    113, 25,
+    108, 52,
+    -46, 53.5,
+    -54.5, 3,
+    -35.5, -14,
+    -41.5, -42.5,
+    -10.5, -54,
+    7.5, -38,
+    2.5, 24
+  ]
+}

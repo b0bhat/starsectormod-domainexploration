@@ -1,0 +1,67 @@
+{
+  "hullName": "",
+  "hullId": "defo_isochrone2",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/Isochrone2.png",
+  "style": "HIGH_TECH",
+  "height": 240,
+  "width": 140,
+  "center": [70, 120],
+  "collisionRadius": 160,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 148,
+  "viewOffset": 0,
+  "builtInMods": [
+    "intricatemachinery",
+    "reduced_explosion",
+    "always_detaches"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 30,
+      "angle": 0,
+      "locations": [104, -19]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": 0,
+      "locations": [61, -34]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": -45,
+      "locations": [2, -32]
+    },
+    {
+      "id": "WS0004",
+      "size": "LARGE",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 30,
+      "angle": -90,
+      "locations": [-25, -48]
+    }
+  ],
+  "engineSlots": [],
+  "bounds": [
+    -43, -23,
+    -50, -45.5,
+    65, -45,
+    99, -27.5,
+    107, 7,
+    81.5, 3,
+    67, -20
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "hullName": "Zodiac",
+  "hullId": "defo_zodiac",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/Zodiac.png",
+  "style": "HIGH_TECH",
+  "height": 220,
+  "width": 180,
+  "center": [90, 106],
+  "collisionRadius": 138,
+  "shieldCenter": [3, -0],
+  "shieldRadius": 124.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "intricatemachinery"
+  ],
+  "builtInWings": [
+    "defo_pddrone"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": -60.5,
+      "locations": [-62, -33]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 60.5,
+      "locations": [-63, 33]
+    },
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 0,
+      "locations": [70, -21]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -52, -13.5,
+        -46, -12.5
+      ]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -54.5, 18,
+        -48.5, 14.5
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-98, 18.5],
+      "length": 30,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-98, -0],
+      "length": 43,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-98, -18.5],
+      "length": 30,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    102, -32.5,
+    77.5, -47.5,
+    -85, -48,
+    -95.5, -31.5,
+    -95.5, 31.5,
+    -85, 48,
+    77.5, 47.5,
+    102, 32.5
+  ]
+}

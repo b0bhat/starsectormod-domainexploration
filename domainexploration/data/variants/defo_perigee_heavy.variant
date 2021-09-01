@@ -1,0 +1,57 @@
+{
+  "variantId": "defo_perigee_heavy",
+  "hullId": "defo_perigee",
+  "displayName": "Heavy",
+  "goalVariant": true,
+  "fluxCapacitors": 28,
+  "fluxVents": 30,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "plasma"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0009": "taclaser",
+        "WS0010": "taclaser",
+        "WS0011": "taclaser",
+        "WS0012": "taclaser"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "pulselaser",
+        "WS0008": "miningblaster"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "pulselaser",
+        "WS0003": "pulselaser"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0004": "pilum",
+        "WS0005": "pilum",
+        "WS0013": "hammer"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

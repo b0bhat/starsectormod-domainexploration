@@ -1,0 +1,21 @@
+{
+  "variantId": "defo_isochrone1",
+  "hullId": "defo_isochrone1",
+  "displayName": "",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [],
+  "modules": [
+    {
+      "WS0006": "defo_isochrone2"
+    },
+    {
+      "WS0005": "defo_isochrone3"
+    }
+  ],
+  "wings": []
+}

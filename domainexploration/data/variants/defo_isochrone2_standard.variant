@@ -1,0 +1,24 @@
+{
+  "variantId": "defo_isochrone2_standard",
+  "hullId": "defo_isochrone2",
+  "displayName": "Standard",
+  "goalVariant": true,
+  "fluxCapacitors": 10,
+  "fluxVents": 14,
+  "quality": 0,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "defo_lightautopulser",
+        "WS0003": "pdlaser",
+        "WS0004": "squall"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

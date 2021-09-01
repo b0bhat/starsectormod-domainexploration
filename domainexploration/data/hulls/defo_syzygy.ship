@@ -1,0 +1,97 @@
+{
+  "hullName": "Syzygy",
+  "hullId": "defo_syzygy",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/Syzygy.png",
+  "style": "HIGH_TECH",
+  "height": 80,
+  "width": 82,
+  "center": [41, 27.5],
+  "collisionRadius": 64.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 56,
+  "viewOffset": 0,
+  "builtInMods": [
+	"intricatemachinery"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": 30,
+      "locations": [-2.5, 18]
+    },
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "SYNERGY",
+      "mount": "TURRET",
+      "arc": 45,
+      "angle": 0,
+      "locations": [22.5, -0]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 145,
+      "angle": 0,
+      "locations": [4.5, -0]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": -30,
+      "locations": [-2.5, -18]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-22.5, 25],
+      "length": 21.992931,
+      "width": 9.232766,
+      "angle": 180,
+      "contrailSize": 9.232766,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-22.5, -25],
+      "length": 21.992931,
+      "width": 9.232766,
+      "angle": 180,
+      "contrailSize": 9.232766,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-23.5, -15],
+      "length": 30,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-23.5, 15],
+      "length": 30,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    31.5, -14,
+    -7.5, -40,
+    -22.5, -25,
+    -22.5, 25,
+    -7.5, 40,
+    31.5, 14
+  ]
+}
