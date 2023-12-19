@@ -1,2 +1,3 @@
 # starsectormod-domainexploration
-in-progress mod for starsector
+Mod for starsector adding several custom ships and designs
+![image](starsectorships.png)
