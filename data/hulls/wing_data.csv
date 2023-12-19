@@ -1,0 +1,6 @@
+id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
+defo_empdrone,defo_empdrone,"no_drop, no_sell, high",3,,6,0,BOX,1500,300,,2,SUPPORT,EMP Drone,60,6000,,,,,,,,,,,,,19
+defo_pddrone,defo_pddrone,"no_drop, no_sell, high",3,,6,0,BOX,500,200,,2,SUPPORT,PD Drone,60,6000,,,,,,,,,,,,,19
+defo_coriolis,defo_coriolis,"no_drop, no_sell, high",3,,6,0,V,5000,500,,2,FIGHTER,Fighter Drone,60,6000,,,,,,,,,,,,,19
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,26
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,27
