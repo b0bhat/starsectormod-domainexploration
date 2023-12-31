@@ -1,0 +1,5 @@
+name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
+#Pulse Laser,pulselaser,1,,1200,600,,100,,0,20,10,,,,ENERGY,110,,0.333333,0,,,,,,,,1000,,,,,"energy13, hightech_bp",,,,General,,,,,,,,,,22
+#Autopulse Laser,autopulse,1,,4500,700,,150,,0,20,20,30,2,,ENERGY,125,,0.05,0.05,1,,0,10,1,5,,1000,,,,,"energy18, hightech_bp",,,,General,,,,,,,,,,25
+Light Autopulser,defo_lightautopulser,1,,1800,700,,30,,0,20,12,,,,ENERGY,25,,0.15,0,,,,,,,,1000,,,,,hightech_bp,,,,General,,,,,,,,,,72
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73

@@ -1,0 +1,41 @@
+{
+	"combatSmallForSmallFleet":{
+		"defo_parallax_standard":1,
+		"defo_syzygy_standard":1,
+	},
+	"combatSmall":{
+		"defo_parallax_standard":1,
+		"defo_syzygy_standard":2,
+		"defo_syzygyews_standard":1,
+		"defo_syzygycas_standard":1,
+	},
+	"combatMedium":{
+		"defo_solstice_assault":2,
+		"defo_solstice_hybrid":2,
+		"defo_equinox_assault":1,
+		"defo_meridian_standard":3,
+		"defo_isochrone1_standard":1,
+	},
+	"combatLarge":{
+		"defo_perigee_heavy":1,
+		"defo_perigee_missile":1,
+	},
+	"carrierSmall":{
+		"defo_equinox_assault":1,
+		"defo_meridian_standard":2,
+		"defo_equinox_support":1,
+		"defo_spectra_standard":3,
+	},
+	"carrierMedium":{
+		"defo_solstice_carrier":2,
+		"defo_solstice_assault":1,
+		"defo_solstice_hybrid":1,
+		"defo_equinox_assault":1,
+		"defo_isochrone1_standard":1,
+	},
+	"carrierLarge":{
+		"defo_perigee_heavy":1,
+		"defo_perigee_missile":1
+	},
+	
+}
